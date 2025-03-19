@@ -77,7 +77,6 @@ llm = GroqLLM()
 
 cag_system = CacheAugmentedGeneration(llm, document_store)
 
-# Preload cache
 cached_topics = cag_system.preload_cache()
 
 @app.route('/')
