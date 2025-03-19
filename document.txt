@@ -1,0 +1,8 @@
+Ronan Takizawa is a student at Colorado College, expected to graduate in May 2026.
+He is a software developer with experience in Python, JavaScript, and C++.
+Ronan won first place at HackHarvard 2023 with his project TeleSpeech, a text-to-speech Chrome extension.
+He is passionate about AI/ML and open-source development.
+Ronan has worked on several projects including web applications and machine learning models.
+He is fluent in English and Japanese.
+Ronan is interested in natural language processing and computer vision.
+He has experience with frameworks like React, TensorFlow, and PyTorch. 
